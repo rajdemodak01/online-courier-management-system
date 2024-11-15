@@ -1,5 +1,5 @@
 {
-  "proxy": "http://localhost:3000/",
+  "proxy": "https://online-courier-management-system.onrender.com",
   "name": "frontend_v2",
   "version": "0.1.0",
   "private": true,
